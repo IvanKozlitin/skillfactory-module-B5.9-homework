@@ -1,5 +1,4 @@
 import time
-from functools import wraps
 
 class time_this:
 	"""Декоратор для подсчёта среднего значения времени для выполнения для передаваемой функции, 
